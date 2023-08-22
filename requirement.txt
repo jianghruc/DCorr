@@ -1,0 +1,2 @@
+This is a matlab package for single cell RNA-seq data heterogeneity analysis.
+Therefore， the software MATLAB needs to be installed.
